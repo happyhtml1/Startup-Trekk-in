@@ -1,0 +1,30 @@
+.precios{
+    position: relative;
+    img{
+        width: 100%;
+    }
+}
+.Cartaslocas{
+    position: absolute;
+    top: 11%;
+}
+
+
+.Caracteristicas h1{
+text-align: center;
+font-size: $xxxxx-large;
+}
+
+h2{
+    margin-bottom: 4%;
+    font-size: $xx-large;
+}
+
+#graficosytextos{
+    position: relative;
+}
+
+.Caracteristicas__grafico{
+    position: absolute;
+    bottom: 0;
+}

@@ -1,0 +1,18 @@
+.header{
+  position: relative;
+  img{
+    width: 100%;
+    
+  }
+
+  .header__texto {
+  position: absolute;
+  top: 11%;
+  width: 385px;
+  left: 33px;
+  }
+
+  h1{
+    font-size: $xxxxx-large;
+  }
+}
